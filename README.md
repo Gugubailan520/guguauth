@@ -27,6 +27,11 @@ go run main.go
 go build main.go -o auth
 ```
 
+> 项目第一次启动会生成一个config.json
+> 需要自行配置MySQL数据库连接地址
+> 第二次运行会自动生成所需要数据表
+
+
 ### 四、文档
 
 [API狐狸](https://guguauth.apifox.cn/)
