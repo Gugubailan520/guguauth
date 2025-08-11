@@ -6,7 +6,7 @@
 
 #### 2、更新吗？
 
-不想更
+不想更（大部分都是AI写的）
 
 ### 二、项目依赖
 
@@ -31,3 +31,4 @@ go build main.go -o auth
 
 [API狐狸](https://guguauth.apifox.cn/)
 
+> 数据库中key是MySQL关键字，后期改了下，但是文档懒得改了，见谅
